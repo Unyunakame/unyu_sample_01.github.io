@@ -1,0 +1,17 @@
+.親 {
+	
+	background-color: lightblue;
+	
+	
+	padding: 20px 20px 20px 20px;
+	
+	& .子 {
+		background-color: steelblue;
+	}
+}
+
+
+.動物 {
+	display: block;
+	
+	margin: 0px auto 0px auto;
